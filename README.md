@@ -1,4 +1,7 @@
-# Anime ACF Plugin
+# Anime ACF - Anime WordPress Plugin Importer
+
+![Anime ACF Plugin](https://i.imgur.com/WvvBvBt.jpeg)
+
 
 **Anime ACF** is a WordPress plugin that uses the AniList API to scrape anime data and automatically fill ACF (Advanced Custom Fields) fields in a WordPress post. It also handles setting anime categories and featured images.
 
